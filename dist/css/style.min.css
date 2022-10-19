@@ -1,0 +1,1 @@
+*{box-sizing:border-box;margin:0;padding:0}.news-container{height:100vh;display:grid;gap:60px;grid-template-columns:repeat(4,minmax(100px,240px));grid-auto-rows:repeat(2,minmax(260px,auto));justify-content:center;align-content:center}.news-item__img{width:100%}.news-item__descr{font-style:normal;font-weight:500;font-size:14px;line-height:16px;margin-top:15px}
